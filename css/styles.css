@@ -12,6 +12,9 @@ p {
 a{
   font-style: italic; 
 }
+li {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 .column1{
  width: 20%;
