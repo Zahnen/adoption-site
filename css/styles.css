@@ -37,3 +37,21 @@ a{
   width: 20%;
   float: left;
 }
+
+.center{
+  margin: auto;
+  width: 25%;
+  height: auto;
+  display: block;
+  padding-top: 35px;
+}
+.contact{
+  border: 5px solid blue;
+  background-color: cadetblue;
+  margin: auto;
+  width: 10%;
+  display: block;
+  text-align: center;
+  margin-top: 25px;
+  box-sizing: content-box;
+}
