@@ -1,5 +1,39 @@
+
+body {
+  background-color: floralwhite;
+}
+
 p {
   font-weight: bold;
   font-style: oblique;
-  color: darkmagenta
+  color: darkslategray;
+}
+
+a{
+  font-style: italic; 
+}
+
+.column1{
+ width: 20%;
+ float: left;
+}
+
+.column2{
+    width: 20%;
+    float: left;
+ }
+
+ .column3{
+  width: 20%;
+  float: left;
+}
+
+.column4{
+  width: 20%;
+  float: left;
+}
+
+.column5{
+  width: 20%;
+  float: left;
 }
